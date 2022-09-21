@@ -1,0 +1,4 @@
+baseURL: "https://sudhugo.github.io/"
+languageCode: en-us
+title: Sudhugo Demo Site
+theme: paper
